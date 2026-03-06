@@ -6,20 +6,20 @@
 - Single host, VLAN, site, or global.
 - User impact and business impact.
 
-2. Validate transport path.
+1. Validate transport path.
 - Interface up/down state.
 - VLAN/trunk or link status.
 - Routing and return path.
 
-3. Validate service dependency chain.
+1. Validate service dependency chain.
 - DNS, DHCP, NAT, auth, time sync.
 - Application port reachability.
 
-4. Confirm policy and security controls.
+1. Confirm policy and security controls.
 - ACL/firewall permit path.
 - Segmentation expectations.
 
-5. Prove restoration.
+1. Prove restoration.
 - Before/after verification outputs.
 - User-experience confirmation.
 - Incident documentation.
