@@ -1,0 +1,20 @@
+# Git Ignore
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Lab artifacts
+*.pcap
+*.pkt
+*.unl
+*.log
+*.tmp
