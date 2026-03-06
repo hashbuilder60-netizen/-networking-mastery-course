@@ -1,0 +1,17 @@
+# Answer Key Index
+
+1. [01-foundations-answers](./01-foundations-answers.md)
+2. [02-network-models-answers](./02-network-models-answers.md)
+3. [03-addressing-subnetting-answers](./03-addressing-subnetting-answers.md)
+4. [04-switching-vlans-answers](./04-switching-vlans-answers.md)
+5. [05-routing-static-dynamic-answers](./05-routing-static-dynamic-answers.md)
+6. [06-transport-services-answers](./06-transport-services-answers.md)
+7. [07-network-services-answers](./07-network-services-answers.md)
+8. [08-wireless-answers](./08-wireless-answers.md)
+9. [09-security-answers](./09-security-answers.md)
+10. [10-automation-programmability-answers](./10-automation-programmability-answers.md)
+11. [11-cloud-sdn-answers](./11-cloud-sdn-answers.md)
+12. [12-observability-troubleshooting-answers](./12-observability-troubleshooting-answers.md)
+13. [13-wan-vpn-answers](./13-wan-vpn-answers.md)
+14. [14-advanced-enterprise-design-answers](./14-advanced-enterprise-design-answers.md)
+15. [15-career-cert-prep-answers](./15-career-cert-prep-answers.md)

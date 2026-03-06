@@ -1,6 +1,7 @@
 # Course Documentation Index
 
 ## Module List
+
 1. [Networking Foundations](./01-foundations/README.md)
 2. [OSI/TCP-IP Models](./02-network-models/README.md)
 3. [Addressing and Subnetting](./03-addressing-subnetting/README.md)
@@ -17,7 +18,16 @@
 14. [Enterprise Design](./14-advanced-enterprise-design/README.md)
 15. [Career and Certification Prep](./15-career-cert-prep/README.md)
 
+## Companion Material Packs
+
+Use detailed companion materials for each module:
+
+- [materials/module-packs/README.md](../materials/module-packs/README.md)
+- [materials/practice-sets/README.md](../materials/practice-sets/README.md)
+- [materials/answer-keys/README.md](../materials/answer-keys/README.md)
+
 ## How to Progress
+
 - Complete each module in order.
 - Do labs before quiz.
 - Maintain a troubleshooting journal.

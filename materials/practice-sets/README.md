@@ -1,0 +1,17 @@
+# Practice Set Index
+
+1. [01-foundations-practice](./01-foundations-practice.md)
+2. [02-network-models-practice](./02-network-models-practice.md)
+3. [03-addressing-subnetting-practice](./03-addressing-subnetting-practice.md)
+4. [04-switching-vlans-practice](./04-switching-vlans-practice.md)
+5. [05-routing-static-dynamic-practice](./05-routing-static-dynamic-practice.md)
+6. [06-transport-services-practice](./06-transport-services-practice.md)
+7. [07-network-services-practice](./07-network-services-practice.md)
+8. [08-wireless-practice](./08-wireless-practice.md)
+9. [09-security-practice](./09-security-practice.md)
+10. [10-automation-programmability-practice](./10-automation-programmability-practice.md)
+11. [11-cloud-sdn-practice](./11-cloud-sdn-practice.md)
+12. [12-observability-troubleshooting-practice](./12-observability-troubleshooting-practice.md)
+13. [13-wan-vpn-practice](./13-wan-vpn-practice.md)
+14. [14-advanced-enterprise-design-practice](./14-advanced-enterprise-design-practice.md)
+15. [15-career-cert-prep-practice](./15-career-cert-prep-practice.md)
