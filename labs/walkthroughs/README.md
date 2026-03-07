@@ -7,3 +7,9 @@ Use these walkthrough files as practical lessons, not just templates.
 3. `03-dhcp-dns-nat-ntp-qos.md`
 4. `04-security-acl-hardening.md`
 5. `05-automation-validation-runbook.md`
+
+
+## Solved Answers
+
+- [Walkthrough answers](./answers/README.md)
+

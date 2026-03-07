@@ -17,3 +17,9 @@
 - Overall: 75%
 - Practicals: must pass independently
 - Capstones: must meet all mandatory requirements
+
+
+## Study Question Bank
+
+- [100 exam-style Q and A](./question-banks/README.md)
+

@@ -42,14 +42,18 @@ networking-mastery-course/
 │  ├─ 14-advanced-enterprise-design/
 │  └─ 15-career-cert-prep/
 ├─ materials/
+│  ├─ NETWORKING-COURSE-HANDBOOK.md
+│  ├─ learning-guides/
 │  ├─ module-packs/
 │  ├─ practice-sets/
-│  └─ answer-keys/
+│  ├─ answer-keys/
+│  └─ wireshark-lessons/
 ├─ labs/
 │  ├─ packet-tracer/
 │  ├─ gns3-eve-ng/
 │  ├─ containerlab/
-│  └─ scripts/
+│  ├─ scripts/
+│  └─ walkthroughs/
 ├─ projects/
 │  ├─ campus-network/
 │  ├─ branch-wan/
@@ -74,11 +78,14 @@ networking-mastery-course/
 - Module outlines: [docs/README.md](./docs/README.md)
 - Deep learning packs: [materials/module-packs/README.md](./materials/module-packs/README.md)
 - Full teaching guides: [materials/learning-guides/README.md](./materials/learning-guides/README.md)
+- Wireshark packet lessons: [materials/wireshark-lessons/README.md](./materials/wireshark-lessons/README.md)
 - Practice exercises: [materials/practice-sets/README.md](./materials/practice-sets/README.md)
 - Suggested answer guides: [materials/answer-keys/README.md](./materials/answer-keys/README.md)
 - Resource library: [resources/README.md](./resources/README.md)
 - Full course handbook: [materials/NETWORKING-COURSE-HANDBOOK.md](./materials/NETWORKING-COURSE-HANDBOOK.md)
 - Real lab walkthroughs: [labs/walkthroughs/README.md](./labs/walkthroughs/README.md)
+- Solved walkthrough answers: [labs/walkthroughs/answers/README.md](./labs/walkthroughs/answers/README.md)
+- 100 exam-style Q and A: [assessments/question-banks/README.md](./assessments/question-banks/README.md)
 
 ## Start Here
 
@@ -116,5 +123,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## License
 
 Educational use. Add your preferred open-source license if publishing externally.
+
+
 
 
