@@ -77,6 +77,8 @@ networking-mastery-course/
 - Practice exercises: [materials/practice-sets/README.md](./materials/practice-sets/README.md)
 - Suggested answer guides: [materials/answer-keys/README.md](./materials/answer-keys/README.md)
 - Resource library: [resources/README.md](./resources/README.md)
+- Full course handbook: [materials/NETWORKING-COURSE-HANDBOOK.md](./materials/NETWORKING-COURSE-HANDBOOK.md)
+- Real lab walkthroughs: [labs/walkthroughs/README.md](./labs/walkthroughs/README.md)
 
 ## Start Here
 
@@ -114,4 +116,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## License
 
 Educational use. Add your preferred open-source license if publishing externally.
+
 
